@@ -13,7 +13,7 @@ import com.mystore.actiondriver.Action;
 import com.mystore.base.BaseClass;
 
 /**
- * @author Hitendra
+ * @author Ganesh
  *
  */
 public class OrderSummary extends BaseClass {
