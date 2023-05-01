@@ -24,7 +24,7 @@ import com.mystore.utility.ExtentManager;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
 /**
- * @author Ganesh G: BaseClass is used to load the config file and Initialize 
+ * @author Ganesh Gavhane: BaseClass is used to load the config file and Initialize 
  * WebDriver
  *  
  */
